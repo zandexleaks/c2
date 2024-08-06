@@ -1,0 +1,10 @@
+{
+  "url": "",
+  "ip": "",
+    "use_proxies": false,
+    "proxie_list": [
+      "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
+      "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
+      "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt"
+    ]
+  }
